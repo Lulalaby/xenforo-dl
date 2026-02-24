@@ -1,0 +1,7 @@
+dist/
+node_modules/
+test/
+download_test/
+release/
+package-lock.json
+dist-bundle/
